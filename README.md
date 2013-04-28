@@ -1,1 +1,1 @@
-#Awesome Experiments in Canvas and WebGL
+#Super Awesome Experiments in Canvas and WebGL
